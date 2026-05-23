@@ -63,7 +63,7 @@ I am passionate about creating innovative solutions. I enjoy diving into the wor
 ## Connect with me
 <a href="https://www.linkedin.com/in/vedant-mittal-724b19314" target="_blank"><img align="center" src="linked-in-alt.svg" alt="vedant-mittal" height="30" width="40" /></a>
 &nbsp;
-<a href="https://vedu28.github.io/portfolio-Website" target="_blank"><img align="center" src="globe.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://vedu28.github.io/Portfolio-Website" target="_blank"><img align="center" src="globe.svg" alt="portfolio" height="30" width="40" /></a>
 &nbsp;
 <a href="mailto:vedantmittal2802@gmail.com" target="_blank"><img align="center" src="gmail.svg" alt="email" height="40" width="50" /></a>
 &nbsp;
