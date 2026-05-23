@@ -69,7 +69,7 @@ I am passionate about creating innovative solutions. I enjoy diving into the wor
 &nbsp;
 <a href="https://www.instagram.com/vedantmittal28/" target="_blank"><img align="center" src="instagram.svg" alt="vedantmittal28" height="30" width="40" /></a>
 &nbsp;
-<a href="https://x.com/vedantm2802/" target="_blank"><img align="center" src="icons8-x-logo.svg" alt="vedantm2802" height="30" width="40" /></a>
+<a href="https://x.com/vedantm2802/" target="_blank"><img align="center" src="icons8-x-logo (1).svg" alt="vedantm2802" height="30" width="40" /></a>
 
 <div align="center" >
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken system!"/>
