@@ -61,13 +61,13 @@ I am passionate about creating innovative solutions. I enjoy diving into the wor
 
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/vinit-mehta-96138820a/" target="_blank"><img align="center" src="linked-in-alt.svg" alt="vinit-mehta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedant-mittal-724b19314" target="_blank"><img align="center" src="linked-in-alt.svg" alt="vinit-mehta" height="30" width="40" /></a>
 &nbsp;
-<a href="https://vinit2244.github.io" target="_blank"><img align="center" src="globe.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://vedu28.github.io" target="_blank"><img align="center" src="globe.svg" alt="portfolio" height="30" width="40" /></a>
 &nbsp;
-<a href="mailto:vinit2004mehtaa@gmail.com" target="_blank"><img align="center" src="gmail.svg" alt="email" height="40" width="50" /></a>
+<a href="mailto:vedantmittal2802@gmail.com" target="_blank"><img align="center" src="gmail.svg" alt="email" height="40" width="50" /></a>
 &nbsp;
-<a href="https://www.instagram.com/vinitzz._/" target="_blank"><img align="center" src="instagram.svg" alt="vinitzz._" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vedantmittal28/" target="_blank"><img align="center" src="instagram.svg" alt="vinitzz._" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/Vinitzz_" target="_blank"><img align="center" src="twitter.svg" alt="Vinitzz_" height="30" width="40" /></a>
 
