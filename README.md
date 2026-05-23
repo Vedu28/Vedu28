@@ -3,6 +3,17 @@
 ## About me
 
 - **Information Technology Student** @ [IIPS, DAVV](https://iips.edu.in/).
+- 👋 Hi, I'm Vedant!
+
+🎓 I am currently pursuing an Integrated Dual Degree (B.Tech + M.Tech) in Information Technology from IIPS, DAVV Indore.
+
+💻 I am passionate about Software Development and enjoy building applications that solve real-world problems. My primary interests include Java Development, Full-Stack Development, Database Management Systems, Cloud Computing, and Data Structures & Algorithms.
+
+🚀 I enjoy learning new technologies, working on innovative projects, and continuously improving my technical and problem-solving skills.
+
+🌱 Currently exploring advanced software engineering concepts and building projects to strengthen my development expertise.
+
+📫 Open to internships, collaborations, and opportunities to learn and grow as a Software Engineer.
 - **Interests**: 3D Computer Vision • Robotics • Distributed Systems • Applied Machine Learning
 
 
