@@ -3,7 +3,6 @@
 ## About me
 
 - 👋 Hi, I'm Vedant!
-- 
 - **Information Technology Student** @ [IIPS, DAVV](https://iips.edu.in/).
 
 🎓 I am currently pursuing an Integrated Dual Degree (B.Tech + M.Tech) in Information Technology from IIPS, DAVV Indore.
