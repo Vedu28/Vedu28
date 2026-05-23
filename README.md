@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Hello, I am Vinit Mehta. Welcome to my profile." width="100%"/>
+<img src="ChatGPT Image May 23, 2026, 10_43_51 AM.png" alt="Hello, I am Vinit Mehta. Welcome to my profile." width="100%"/>
 
 ## About me
 
