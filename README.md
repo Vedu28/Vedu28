@@ -19,7 +19,7 @@
 
 
 
-I am passionate about creating innovative solutions. I enjoy diving into the world of technology to build meaningful projects. When not in front of the screen, you'll find me immersed in a good book, expressing myself on canvas, spiking a volleyball, or simply enjoying the rhythm of my favorite tunes. Let's connect and explore the endless possibilities of tech and creativity!
+I enjoy diving into the world of technology to build meaningful projects. When not in front of the screen, you'll find me immersed in a good book, expressing myself on canvas, spiking a volleyball, or simply enjoying the rhythm of my favorite tunes. Let's connect and explore the endless possibilities of tech and creativity!
 
 ## Technical skills
 
