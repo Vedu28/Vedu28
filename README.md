@@ -69,7 +69,9 @@ I am passionate about creating innovative solutions. I enjoy diving into the wor
 &nbsp;
 <a href="https://www.instagram.com/vedantmittal28/" target="_blank"><img align="center" src="instagram.svg" alt="vedantmittal28" height="30" width="40" /></a>
 &nbsp;
-<a href="https://x.com/vedantm2802/" target="_blank"><img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPjxwYXRoIGQ9Ik0gMTEgNCBDIDcuMTM0IDQgNCA3LjEzNCA0IDExIEwgNCAzOSBDIDQgNDIuODY2IDcuMTM0IDQ2IDExIDQ2IEwgMzkgNDYgQyA0Mi44NjYgNDYgNDYgNDIuODY2IDQ2IDM5IEwgNDYgMTEgQyA0NiA3LjEzNCA0Mi44NjYgNCAzOSA0IEwgMTEgNCB6IE0gMTMuMDg1OTM4IDEzIEwgMjEuMDIzNDM4IDEzIEwgMjYuNjYwMTU2IDIxLjAwOTc2NiBMIDMzLjUgMTMgTCAzNiAxMyBMIDI3Ljc4OTA2MiAyMi42MTMyODEgTCAzNy45MTQwNjIgMzcgTCAyOS45Nzg1MTYgMzcgTCAyMy40Mzc1IDI3LjcwNzAzMSBMIDE1LjUgMzcgTCAxMyAzNyBMIDIyLjMwODU5NCAyNi4xMDM1MTYgTCAxMy4wODU5MzggMTMgeiBNIDE2LjkxNDA2MiAxNSBMIDMxLjAyMTQ4NCAzNSBMIDM0LjA4NTkzOCAzNSBMIDE5Ljk3ODUxNiAxNSBMIDE2LjkxNDA2MiAxNSB6Ii8+PC9zdmc+"/></a>
+<a href="https://x.com/vedantm2802/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50">
+<path d="M 11 4 C 7.134 4 4 7.134 4 11 L 4 39 C 4 42.866 7.134 46 11 46 L 39 46 C 42.866 46 46 42.866 46 39 L 46 11 C 46 7.134 42.866 4 39 4 L 11 4 z M 13.085938 13 L 21.023438 13 L 26.660156 21.009766 L 33.5 13 L 36 13 L 27.789062 22.613281 L 37.914062 37 L 29.978516 37 L 23.4375 27.707031 L 15.5 37 L 13 37 L 22.308594 26.103516 L 13.085938 13 z M 16.914062 15 L 31.021484 35 L 34.085938 35 L 19.978516 15 L 16.914062 15 z"></path>
+</svg></a>
 
 <div align="center" >
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken system!"/>
